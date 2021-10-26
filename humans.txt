@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <Philippe Giraudeau> -- <Co-Project leader> -- <@philippeIA>
+    <Alexis Olry> 		 --	<Co-project Leader> -- <@AEP_OdeR>>
+
+# THANKS
+
+    <Potioc !> https://team.inria.fr/potioc/
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
